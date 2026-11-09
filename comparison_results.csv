@@ -1,0 +1,3 @@
+Dataset,Training Samples,Test Accuracy (%),Model Parameters
+MNIST,48000,99.23,421642
+Custom,1400,73.33333333333333,421642

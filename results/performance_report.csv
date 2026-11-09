@@ -1,0 +1,2 @@
+Model,Test Accuracy,Parameters,Model File
+SimpleCNN,0.983,421642,SimpleCNN.pth

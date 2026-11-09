@@ -1,0 +1,3 @@
+Model,Dataset,Test Accuracy (%),Parameters,Model File
+MNIST Model,"MNIST (70,000 samples)",99.06,421642,models/mnist_model.pth
+Custom Model,Custom (2000 samples),86.66666666666667,421642,models/custom_model.pth
